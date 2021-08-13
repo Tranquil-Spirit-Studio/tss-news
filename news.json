@@ -3,18 +3,19 @@
 		{
 			"title":	"Reiki Healing and Aura Workshop Day",
 			"datetime":	"2020-02-12",
-			"date":	"February 12, 2020"
+			"date":	"February 12, 2020",
 			"image":	"./images/news/2020-02-11.jpg",
-			"caption":	"Students at the workshop"
+			"caption":	"Students at the workshop",
 			"body":	"<p>On the 8th of February we held a workshop at the Studio, with the theme of  <em>Aura seeing and strengthening</em>, for well-being and self-care, and how that could be combined with Reiki treatments.</p>"
 		},
 		{
 			"title":	"New Beginning",
 			"datetime": "2020-02-01",
-			"date":	"February  1, 2020"
+			"date":	"February  1, 2020",
 			"image":	"./images/news/mats.jpg",
-			"caption":	"Room set up for a Yoga course"
+			"caption":	"Room set up for a Yoga course",
 			"body":	"<p>We are  creating a new centre for alternative therapy treatments, and Reiki courses and workshops.</p>"
 		}
 	],
+	"@type":	"news"
 }
