@@ -1,13 +1,6 @@
 {
 	"article": [
 		{
-			"title": "Test article",
-			"datetime": "2021-08-14",
-			"image": "https://cdn.jsdelivr.net/gh/Tranquil-Spirit-Studio/tss-news@33295a8944afadbda82e6fee3eddd0492c79d4cd/images/Mikaousui.jpg",
-			"caption": "Reiki Founder",
-			"body": "<p>Here is a link to <a title=\"Link to York Reiki Plus\" href=\"http://www.yorkreikiplus.com\" target=\"_blank\" rel=\"noopener\">York Reiki Plus</a></p>"
-		},
-		{
 			"title": "Reiki Healing and Aura Workshop Day",
 			"datetime": "2020-02-12",
 			"image": "./images/news/2020-02-11.jpg",
